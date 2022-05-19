@@ -1,0 +1,11 @@
+a {
+    background-color:red;
+    color:white;
+    margin-right:30px;
+    padding:10px 20px;
+    transition:background .4s ease;
+}
+
+a:hover {
+    background-color:black;
+}
